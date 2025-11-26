@@ -255,7 +255,7 @@ The bot sends concise, professional notifications for important events:
 
 3. **Configure the bot**
    ```bash
-   cp .env.example .env
+   touch .env
    ```
    
    Edit `.env` with your settings:
